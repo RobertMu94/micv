@@ -1,0 +1,31 @@
+.contenedor1{
+    background-color: rgb(0, 126, 243);
+    padding: 10px 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.image-profile{
+    height: 175px;
+    width: 180px;
+
+}
+.Titulonombre{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Titulo{
+    color: azure;
+    font-size: 35px;
+    
+}
+.Nombre{
+    color: azure;
+    align-items: center;
+}
+.Espacio{
+    width: 100px;
+    height: auto;
+}
