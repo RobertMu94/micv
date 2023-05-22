@@ -1,31 +1,102 @@
-.contenedor1{
-    background-color: rgb(0, 126, 243);
+.contenedor1 {
+    background-color: #191970;
     padding: 10px 5px;
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
 
-.image-profile{
+.image-profile {
     height: 175px;
     width: 180px;
+    padding: 1px 20px;
 
 }
-.Titulonombre{
+
+
+.Titulonombre {
     display: flex;
     flex-direction: column;
     align-items: center;
 }
-.Titulo{
+
+.Titulo {
     color: azure;
     font-size: 35px;
-    
+
 }
-.Nombre{
+
+.Nombre {
     color: azure;
     align-items: center;
 }
-.Espacio{
+
+.Espacio {
     width: 100px;
     height: auto;
+}
+
+main div.perconhab {
+    display: flex;
+}
+
+main div.exphob {
+    display: flex;
+
+}
+
+.Contenedorinfo {
+    display: flex;
+}
+
+main.Columna1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 330px;
+    margin-top: 210px;
+    margin-left: 10px;
+    background-color: #B0C4DE;
+}
+
+.perfil {
+    padding: 0px 10px;
+}
+
+body p {
+    text-align: justify;
+}
+
+.contacto {
+    padding: 0px 10px;
+}
+
+.habilidades {
+    padding: 0px 10px;
+}
+
+.hobbies {
+    padding: 0px 10px;
+}
+
+.imgcol1 {
+    height: 30px;
+    width: 40px;
+}
+
+.profile-description {
+    padding: 0px 38px;
+}
+
+footer.Columna2 {
+    margin-left: 370px;
+    margin-right: 0px;
+    margin-top: -20px;
+    background-color: transparent;
+
+}
+.imgcol2 {
+    height: 30px;
+    width: 40px;
+    padding-top: 10px;
 }
